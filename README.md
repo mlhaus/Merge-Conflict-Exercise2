@@ -6,4 +6,4 @@
 
 ![Cute kitten](https://placekitten.com/600/200)
 
-![Cute puppy](https://place-puppy.com/600x300)
+![Cute kitten](https://placekitten.com/500/600)
