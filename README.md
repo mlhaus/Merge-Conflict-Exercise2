@@ -4,4 +4,6 @@
 
 ![Cute kitten](https://placekitten.com/600/400)
 
+![Cute kitten](https://placekitten.com/600/200)
+
 ![Cute kitten](https://placekitten.com/500/600)
